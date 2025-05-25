@@ -28,9 +28,9 @@ This portfolio is a representation of my journey as a developer and contains the
 - **CSS3**
 - **JavaScript (Vanilla)**
 
-## 📸 Preview
+## 🔗 Live Demo
 
-![Portfolio Screenshot](./screenshot.png) <!-- Replace with actual screenshot file name or link -->
+👉 [Click here to view the live website](https://myportfolio-md.netlify.app/) <!-- Replace with actual screenshot file name or link -->
 
 ## 📂 Project Structure
 
@@ -42,5 +42,5 @@ my_portfolio/
 ├── js/
 │ └── script.js
 ├── images/
-│ └── ... (your images here)
+│ └── ... (images here)
 └── README.md
