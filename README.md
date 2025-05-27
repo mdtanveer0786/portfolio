@@ -28,7 +28,7 @@ This portfolio is a representation of my journey as a developer and contains the
 - **CSS3**
 - **JavaScript (Vanilla)**
 
-## 💻 Live Demo(https://myportfolio-md.netlify.app/) 
+## 💻 [Live Demo] !(https://myportfolio-md.netlify.app/) 
 
 👉 [Click here to view the live website](https://myportfolio-md.netlify.app/) <!-- Replace with actual screenshot file name or link -->
 
@@ -47,7 +47,7 @@ my_portfolio/
 
 📬 Contact Me
 
-- 📧 Email: your-enquiryinto@gmail.com
+- 📧 Email:enquiryinto@gmail.com
 
 - 💼 LinkedIn:(https://www.linkedin.com/in/md-tanveer-b7a134219/)
 
@@ -73,4 +73,4 @@ A: Yes! Just give credit or link back if you're using it as-is.
 Q: Will you be adding more projects?
 A: Absolutely! I’m actively learning and will continue updating my portfolio.
 
-Made with ❤️ by Md Tanveer
+Made with ❤️ by [Md Tanveer](https://www.linkedin.com/in/md-tanveer-b7a134219/) 
