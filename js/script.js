@@ -1,9 +1,12 @@
 /*============================================Typing animation=====================================*/
-var typed = new Typed(".typing",{
-    strings:["Frontend Developer","Full Stack Developer","Coding Enthusiat"],
-    typespeed:100,
-    backspeed:60,
-    loop:true
+var typed = new Typed(".typing", {
+  strings: ["Frontend Developer", "Full Stack Developer", "Coding Enthusiat"],
+  typeSpeed: 200,
+  backSpeed: 100,
+  backDelay: 1000,
+  startDelay: 500,      
+  smartBackspace: true,
+  loop: true
 })
 /*============================================Aside=====================================*/
 const nav = document.querySelector(".nav"),
